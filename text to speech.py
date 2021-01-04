@@ -8,8 +8,4 @@ def speak(audio):
     engine.say(audio)
     engine.runAndWait()
 
-a="praveen"
-speak("hey buddy")    # Type here what do u want to hear at the output window
-speak(a)
-speak("have a nice day")
-
+speak("hey buddy,have a nice day")    # Type here what do u want to hear at the output window
